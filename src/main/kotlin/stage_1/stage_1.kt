@@ -13,6 +13,7 @@ fun main() {
         dictionary.add(word)
     }
     println(dictionary)
+
 }
 
 data class Word(
